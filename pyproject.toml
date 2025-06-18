@@ -1,0 +1,8 @@
+[project]
+name = "noah-be"
+version = "0.1.0"
+description = "Backend for Noah project"
+readme = "README.md"
+dependencies = [
+    "fastapi>=0.115.13",
+]
